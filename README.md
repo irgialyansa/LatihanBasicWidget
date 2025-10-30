@@ -1,4 +1,4 @@
-# exercise
+# Latihan Basic Widget
 
 A new Flutter project.
 
