@@ -1,8 +1,8 @@
 # Latihan Basic Widget
 
-Nama :Irgi Alyansa Perdana
-NIM :23552011210
-Kelas :K23B
+# Nama :Irgi Alyansa Perdana
+# NIM :23552011210
+# Kelas :K23B
 
 
 ## Link Video
